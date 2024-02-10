@@ -1,4 +1,3 @@
-[![--](https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills-Becoming-a-Software-Developer.png)](https://github.com/ulkuhos)
 <h2 align="left">Hi there 👋, I'm Ülkü</h2>
 <h3 align="left">A passionate web developer from Turkey</h3>
 
