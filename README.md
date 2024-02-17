@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **React.js,Tailwind,Sass**
+- 🌱 I’m currently learning **React.js, Tailwind, Sass**
 
 - 📝 I regularly write articles on [https://medium.com/@ulkuhos](https://medium.com/@ulkuhos)
 
