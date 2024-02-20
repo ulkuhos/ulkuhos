@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋, I'm Ülkü</h2>
 <h3 align="left">A passionate web developer from Turkey</h3>
 
-- 🔭 I’m currently working on **portfolio website** [https://portfolio.ikizoglu.com/](https://portfolio.ikizoglu.com/)
+- 🔭 I’m currently working on **portfolio website**
 
 - 🌱 I’m currently learning **React.js, Tailwind, Sass**
 
